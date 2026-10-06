@@ -10,6 +10,10 @@ header {
     width: 100%;
 }
 
+.logo {
+    font-size: 25px;
+}
+
 h1 {
     color: white;
     font-weight: 900px;
@@ -18,7 +22,8 @@ h1 {
 
 .link {
     color: white;
-    font-size: 20px;
+    font-size: 15px;
+    padding-right: 10px;
 }
 
 .navs {
@@ -28,6 +33,7 @@ h1 {
 .top {
     display: flex;
     background-color: navy;
+    padding: 20px;
 }
 
 .top-text {
