@@ -10,6 +10,7 @@ header {
     justify-content: space-between;
     background-color: navy;
     width: 100%;
+    padding: 10px;
 }
 
 .logo {
@@ -35,10 +36,18 @@ h1 {
 .top {
     display: flex;
     background-color: navy;
-    padding: 20px;
+    padding: 10px;
+    justify-content: space-between;
+    gap: 60px;
+    width: 100%;
 }
 
 .top-text {
     display: flex;
     flex-direction: column;
+}
+
+.top img {
+    width: 300px;
+    height: 175px;
 }
