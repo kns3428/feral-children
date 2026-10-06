@@ -37,7 +37,7 @@ h1 {
 .top {
     display: flex;
     background-color: navy;
-    padding: 10px;
+    padding: 20px;
     align-items: center;
     justify-content: space-between;
     padding-bottom: 20px;
@@ -58,4 +58,11 @@ button {
     width: 100px;
     color: navy;
     background-color: white;
+}
+
+img {
+  width: 200px;
+  height: 200px;
+  object-fit: cover;
+  object-position: center;
 }
