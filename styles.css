@@ -88,3 +88,39 @@ h2 {
     text-align: center;
     font-size: 15px;
 }
+
+.quote {
+    background-color: lightgrey;
+    padding: 20px;
+}
+
+.line {
+    text-align: center;
+}
+
+.author {
+    text-align: right;
+}
+
+.pop-up {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background: skyblue;
+    margin: 60px;
+    padding-top: 5px;
+    padding-right: 40px;
+    padding-left: 40px;
+    padding-bottom: 20px;
+}
+
+.pop-up button {
+    padding: 20px;
+    font-size: 15px;
+}
+
+footer {
+    background-color: navy;
+    text-align: center;
+    font-size: 15px;
+}
