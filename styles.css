@@ -24,3 +24,13 @@ h1 {
 .navs {
     display: flex
 }
+
+.top {
+    display: flex;
+    background-color: navy;
+}
+
+.top-text {
+    display: flex;
+    flex-direction: column;
+}
